@@ -29,7 +29,7 @@
 
 
 
-
+<!-- 
 
 [twitter]: https://twitter.com/bradgarropy
 [youtube]: https://youtube.com/bradgarropy
@@ -52,7 +52,6 @@
 
 ## ⚡ Github Stats
 
-![Marko Denic's Github Stats](https://github-readme-stats.vercel.app/api?username=markoDenic&theme=dark)
 
 ### Let's Connect 🔗
 
@@ -76,5 +75,5 @@
 3. 🎉 Merged PR [#270](https://github.com/markodenic/awesome-tech-blogs/pull/270) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
 4. 🎉 Merged PR [#269](https://github.com/markodenic/awesome-tech-blogs/pull/269) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
 5. 🎉 Merged PR [#255](https://github.com/markodenic/awesome-tech-blogs/pull/255) in [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
-<!--END_SECTION:activity-->
+<!--END_SECTION:activity--> -->
 
