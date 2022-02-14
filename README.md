@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on 
+- 🔭 I’m web developer
 - 🌱 I’m currently learning react.js
-- 💬 Ask me about Mern Stack
+- 💬 Ask me about MERN Stack
 
 
 [![bg][banner]][website]
@@ -23,7 +23,7 @@
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin] -->
 
-[banner]: https://raw.githubusercontent.com/samine85/samine85y/master/Banner.png
+[banner]: https://raw.githubusercontent.com/samine85/samine85y/main/Banner.png
 <!-- [react]: http://reactjs.org -->
 
 
