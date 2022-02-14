@@ -23,7 +23,7 @@
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-[banner]: https://raw.githubusercontent.com/samine85/samine85y/master/GreenHelloMarchBanner.png
+[banner]: https://raw.githubusercontent.com/samine85/samine85y/master/Banner.png
 [react]: http://reactjs.org
 
 
