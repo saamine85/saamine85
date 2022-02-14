@@ -23,23 +23,20 @@
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
-[atlassian]: https://atlassian.com
+[banner]: https://raw.githubusercontent.com/samine85/samine85y/master/GreenHelloMarchBanner.png
 [react]: http://reactjs.org
-[firebase]: https://firebase.google.com
-[styled]: https://styled-components.com
-[jamstack]: https://jamstack.org
-[next]: https://nextjs.org
-[typescript]: https://www.typescriptlang.org
-[website]: https://bradgarropy.com
+
+
+
+
+
+
 [twitter]: https://twitter.com/bradgarropy
 [youtube]: https://youtube.com/bradgarropy
 [twitch]: https://twitch.tv/bradgarropy
-[newsletter]: https://bradgarropy.com/newsletter
 [instagram]: https://instagram.com/bradgarropy
 [linkedin]: https://linkedin.com/in/bradgarropy
-[npm]: https://npmjs.com/~bradgarropy
-I'm a Web Developer helping others become one too.
+
 
 
 <!-- Socials -->
