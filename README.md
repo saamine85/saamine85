@@ -10,9 +10,9 @@
 
 
 
-👨🏼‍💻 building [project 06 Openclassrooms][website] . 
-🧠 learning [react.js][react], [nodejs][nodejs] . 
-💜 loving [javascript][javascript] .
+👨🏼‍💻 building [project 06 Openclassrooms][website]
+🧠 learning [react.js][react], [nodejs][nodejs]
+💜 loving [javascript][javascript]
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
