@@ -23,7 +23,7 @@
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin] -->
 
-[banner]: https://raw.githubusercontent.com/samine85/samine85y/main/Banner.png
+[banner]: https://github.com/saamine85/saamine85/blob/main/Banner.png
 <!-- [react]: http://reactjs.org -->
 
 
