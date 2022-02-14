@@ -1,18 +1,18 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on project 07 Openclassrooms
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning react.js
 - 💬 Ask me about Mern Stack
 
 
 [![bg][banner]][website]
 
-### web platform engineer at [atlassian][atlassian] who likes emoji and typing in lowercase
 
-👨🏼‍💻 building [bradgarropy.com][website]  
-🧠 learning [nextjs][next], [typescript][typescript]  
-💜 loving [react][react], [firebase][firebase], [styled-components][styled], [jamstack][jamstack]  
+
+👨🏼‍💻 building [project 06 Openclassrooms][website] . 
+🧠 learning [react.js][react], [nodejs][nodejs] . 
+💜 loving [javascript][javascript] .
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
