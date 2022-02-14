@@ -12,8 +12,12 @@
 
 👨🏼‍💻 building project 06 Openclassrooms
 🧠 learning react.js,
-💜 loving javascript
+💜 loving javascript.
 
+
+
+[banner]: https://github.com/saamine85/saamine85/blob/main/Banner.png
+<!-- [react]: http://reactjs.org -->
 <!-- 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
@@ -22,10 +26,6 @@
 📦 [npm][npm] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin] -->
-
-[banner]: https://github.com/saamine85/saamine85/blob/main/Banner.png
-<!-- [react]: http://reactjs.org -->
-
 
 
 
