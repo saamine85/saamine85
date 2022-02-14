@@ -14,17 +14,17 @@
 🧠 learning [react.js][react], [nodejs][nodejs]
 💜 loving [javascript][javascript]
 
-🏡 [website][website] **|** 
+<!-- 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 🎥 [twitch][twitch] **|** 
 📰 [newsletter][newsletter] **|** 
 📦 [npm][npm] **|** 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+👔 [linkedin][linkedin] -->
 
 [banner]: https://raw.githubusercontent.com/samine85/samine85y/master/Banner.png
-[react]: http://reactjs.org
+<!-- [react]: http://reactjs.org -->
 
 
 
