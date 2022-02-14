@@ -6,7 +6,7 @@
 - 💬 Ask me about MERN Stack
 
 
-[banner]
+[bg][banner]
 
 
 
