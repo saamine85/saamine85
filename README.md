@@ -10,7 +10,7 @@
 
 
 
-👨🏼‍💻 building project 06 Openclassrooms
+
 🧠 learning react.js,
 💜 loving javascript.
 
