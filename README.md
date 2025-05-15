@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m web developer
 - 🌱 I’m currently learning react.js
-- 💬 Ask me about MERN Stack
+
 
 
 ![bg][banner]
@@ -12,7 +11,7 @@
 
 
 🧠 learning react.js,
-💜 loving javascript.
+💜 loving javascript,python,data
 
 
 
