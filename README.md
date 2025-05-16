@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently learning react.js and Power Bi
 
 
 
@@ -9,9 +9,9 @@
 
 
 
+💜 loving data,javascript,python
+🧠 learning react.js,Power Bi
 
-🧠 learning react.js,
-💜 loving javascript,python,data
 
 
 
